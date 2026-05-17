@@ -45,7 +45,6 @@ This project involves:
 ## Data Architecture
 
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
-![Data Architecture](docs/diagrams/Data Architecture.png)
 <img width="961" height="549" alt="image" src="https://github.com/user-attachments/assets/18010f28-b31d-4d15-8516-3ae5dd233679" />
 
 
