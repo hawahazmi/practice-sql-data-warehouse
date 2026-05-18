@@ -117,7 +117,7 @@ SELECT
     END AS avg_order_revenue,
 
     total_qty_sold,
-    total_customers
+    total_customers,
     avg_selling_price,
 
     -- calculate average monthly revenue
